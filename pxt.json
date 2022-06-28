@@ -1,0 +1,28 @@
+{
+    "name": "Robot code for lights!!!",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-robotcar": "github:veilkrand/pxt-robotcar#v0.0.14",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3",
+        "servo": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.6",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
